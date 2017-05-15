@@ -9,8 +9,10 @@
   "devDependencies": {
     "autoprefixer": "^7.1.0",
     "gulp": "^3.9.1",
+    "gulp-batch": "^1.0.5",
     "gulp-postcss": "^7.0.0",
-    "gulp-sourcemaps": "^2.6.0"
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-watch": "^4.3.11"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
